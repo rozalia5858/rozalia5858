@@ -1,12 +1,9 @@
 
 <!-- Adiciona a foto do perfil -->
-<p align="center">
-  <img src="https://drive.google.com/file/d/1kJXAARw018Oq_0wNxXbWJS-ntDSyxNnJ/view?usp=sharing" width="150px">
-</p>
 
 <h2 align="left">Olá, eu sou  Rozalia 👋</h2>
 
-<p align="center">
+<p align="left">
 📍 Localização: Rio de janeiro <br>
 💻 Iniciando Full stack | Apaixonado por tecnologia  <br>
 👀 Estou interessada em java script; python, sql, ...<br>
