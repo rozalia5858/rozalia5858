@@ -1,6 +1,8 @@
 
 <!-- Adiciona a foto do perfil -->
-
+<p align="left">
+  <img src="https://drive.google.com/file/d/1kJXAARw018Oq_0wNxXbWJS-ntDSyxNnJ/view?usp=sharing" width="150px">
+</p>
 <h2 align="left">Olá, eu sou  Rozalia 👋</h2>
 
 <p align="left">
