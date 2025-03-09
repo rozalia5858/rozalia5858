@@ -4,7 +4,7 @@
   <img src="https://drive.google.com/file/d/1kJXAARw018Oq_0wNxXbWJS-ntDSyxNnJ/view?usp=sharing" width="150px">
 </p>
 
-<h2 align="center">Olá, eu sou  Rozalia 👋</h2>
+<h2 align="left">Olá, eu sou  Rozalia 👋</h2>
 
 <p align="center">
 📍 Localização: Rio de janeiro <br>
