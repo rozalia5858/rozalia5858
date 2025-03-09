@@ -6,7 +6,7 @@
 📍 Localização: Rio de janeiro <br>
 💻 Iniciando Full stack | Apaixonado por tecnologia  <br>
 👀 Estou interessada em java script; python, sql, ...<br>
-📫 Como entrar em contato comigo EMAIL: rozaliarh@hotmail.com <br>
+📫 Como entrar em contato comigo Email: rozaliarh@hotmail.com <br>
 ⚡ Curiosidade: ...<br>
 📚 Sempre aprendendo algo novo!  
 </p>
