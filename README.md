@@ -27,7 +27,7 @@
 
 ## 📬 Entre em Contato:
 <p align="center">
-  <a href="https://linkedin.com/in/SEU_PERFIL">
+  <a href="[https://linkedin.com/in/SEU_PERFIL](https://www.linkedin.com/in/rozalia-avestruz-pcd-a19b1850/)">
     <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2">
   </a>
   <a href="https://twitter.com/SEU_TWITTER">
